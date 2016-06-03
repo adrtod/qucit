@@ -26,4 +26,4 @@ largest(x)
 
 %% problem5
 
-combine(9, 100)
+combine(1:9, 100)

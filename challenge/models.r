@@ -1,3 +1,9 @@
+#' ---
+#' title: Qucit challenge: prediction models
+#' author: Adrien Todeschini
+#' date: May, 2016
+#' ---
+
 library(dplyr)
 library(lubridate)
 library(glmnet)

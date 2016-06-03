@@ -55,5 +55,6 @@ exemple:
 fonction qui retourne l'ensemble des combinaisons possibles des nombres 1, 2, ..., 9 dont le résultat est 100
 
 exemple:
+
         1 + 2 + 34 - 5 + 67 - 8 + 9 = 100
 

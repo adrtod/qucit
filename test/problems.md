@@ -18,15 +18,18 @@ fonction qui retourne un tableau contenant les éléments de deux tableaux d'inp
 exemple:
 
 input: 
+
         1 2 3
         a b c
 
 output:
+
         1 a 2 b 3 c
 
 # problem 3
 
 coder une fonction qui calcule la somme des n=100 premiers termes de la suite de Fibonacci
+
         0 1 1 2 3 5 8 13 ...
 
 - $u_1 = 0$
@@ -34,6 +37,7 @@ coder une fonction qui calcule la somme des n=100 premiers termes de la suite de
 - pour $n>2$ : $u_{n+1} = u_n + u_{n-1}$
 
 exemple pour n=10:
+
         somme = 0 + 1 + 1 + 2 + 3 + 5 + 8 + 13 + 21 + 34 = 88
 
 
@@ -42,6 +46,7 @@ exemple pour n=10:
 fonction qui retourne le plus grand nombre possible en concaténant des nombres d'entrée
 
 exemple: 
+
         input: 50 2 1 9
         output: 95021
 
